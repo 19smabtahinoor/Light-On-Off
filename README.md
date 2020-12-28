@@ -9,5 +9,4 @@ First, I put Turn On button,a white light and a Turn Off button.Then I create a 
 
 
 
-Follow me on :
-Facebook:https://facebook.com/abtahinoorsm
+Checkout my Portfolio Website : https://smabtahinor.netlify.app
